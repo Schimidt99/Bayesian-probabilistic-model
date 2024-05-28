@@ -1,5 +1,5 @@
 # Bayesian probabilistic multivariate model
-Bayesian probabilistic modeling applied to environmental data, using PyMC3
+Bayesian probabilistic modeling applied to environmental data, using PyMC library
 
 Construction of a Bayesian multivariate model for prediction of Dissolved Oxygen concentration from the Piracicaba River and Paraiba do Sul River (São Paulo State - Brazil) and a Bayesian multivariate model for prediction of Benzene concentration in air polution.
 
