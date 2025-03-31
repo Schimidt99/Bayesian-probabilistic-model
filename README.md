@@ -14,3 +14,9 @@ Note about the data used in the models:
 -The input data of all the models were autoscaled in the CSV spreadsheets, as a pre-treatment.
 
 -The CSV files were divided into calibration and prediction sets, according to the number of samples.
+
+
+
+
+Article published in:
+https://periodicos.ifg.edu.br/tecnia/article/view/840/1800
