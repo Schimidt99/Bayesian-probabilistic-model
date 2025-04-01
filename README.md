@@ -18,5 +18,7 @@ Note about the data used in the models:
 
 
 
-Article published in:
+
+
+Paper published in:
 https://periodicos.ifg.edu.br/tecnia/article/view/840/1800
