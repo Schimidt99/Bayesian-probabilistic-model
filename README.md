@@ -22,3 +22,6 @@ Note about the data used in the models:
 
 Paper published in:
 https://periodicos.ifg.edu.br/tecnia/article/view/840/1800
+
+
+Journal DOI: https://doi.org/10.56762/tecnia.v9i2
